@@ -46,7 +46,7 @@ canvas {
  <BODY>
 
   <canvas id="pinkboard"></canvas>
-  <div id="message" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: red; font-size: 24px;">
+  <div id="message" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: red; font-size: 24px;">
     <br> 
     <br> Chúc mừng Ngày Quốc tế Phụ nữ 8/3! Em là ánh sáng của cuộc đời anh. Chúc em luôn vui vẻ và hạnh phúc. Yêu em nhiều!
 </div>
