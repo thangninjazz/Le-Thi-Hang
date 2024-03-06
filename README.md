@@ -1,4 +1,8 @@
-I Love You <33
+<div id="1" style="position: absolute; text-align: center; color: red; font-size: 24px;">
+<br> Lê Thị Hằng
+<br> I Love You <33
+
+</div>
 
 <HTML>
 
@@ -46,7 +50,7 @@ canvas {
  <BODY>
 
   <canvas id="pinkboard"></canvas>
-  <div id="message" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: red; font-size: 24px;">
+  <div id="message" style="position: absolute; top: 60%; left: 53%; transform: translate(-50%, -50%); text-align: center; color: red; font-size: 24px;">
     <br> 
     <br> Chúc mừng Ngày Quốc tế Phụ nữ 8/3! Em là ánh sáng của cuộc đời anh. Chúc em luôn vui vẻ và hạnh phúc. Yêu em nhiều!
 </div>
